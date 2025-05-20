@@ -17,7 +17,7 @@
 
 - M. Kim, D. Stilwell, H. Yetkin, and J. Jimenez, “Improved approximation of sensor network performance for seabed acoustic sensors,” _IEEE-Oceans_ (2025).
 
-- M. Kim, H. Yetkin, D. Stilwell, and J. Jimenez, “Barrier coverage problem for suboptimal multi-robots deployment for monitoring of Poisson distributed intruder trajectories,” _IEEE-SysCon_ (2024) (under review).
+- M. Kim, H. Yetkin, D. Stilwell, and J. Jimenez, “Barrier coverage problem for suboptimal multi-robots deployment for monitoring of Poisson distributed intruder trajectories,” _IEEE-SysCon_ (2024).
 
 - M. Kim, H. Yetkin, D. Stilwell, and J. Jimenez, “On the role of uncertainty in Poisson target models used for placement of spatial sensors,” _IEEE-SPIE_ (2023).
 
