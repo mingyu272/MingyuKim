@@ -6,7 +6,7 @@
 - B.S.,  Electrical and Computer Engineering | Georgia Tech (_December 2016_)
 
 ## Journal Publications
-- J. Jimenez, E. Evans, M. Bays, D. Stilwell, M. Kim, and H. Yetkin, “Optimal unmanned underwater vehicles (UUV) surfacing in uncertain environments with spatio-temporal maritime traffic,” in preparation for submission to _IEEE Journal of Oceanic Engineering_ (2025) (under review).
+- J. Jimenez, E. Evans, M. Bays, D. Stilwell, M. Kim, and H. Yetkin, “Optimal unmanned underwater vehicles (UUV) surfacing in uncertain environments with spatio-temporal maritime traffic,” submitted to _IEEE Journal of Oceanic Engineering_ (2025) (under review).
 
 - S. Shrestha, N. Stark, B. Green, D. Stilwell, and M. Kim,  “Assessing the importance of sediment characterization on seabed embedment predictions of cylindrical objects,”  _Elsevier-Applied Ocean Research Journal_ (2024).
 
